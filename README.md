@@ -1,6 +1,10 @@
 # Course 7 - Full Stack Web Development in Python
 ## Training Course by CCPD, NIT Warangal
 
+### Registration
+
+[Register here](https://forms.gle/1JvWVWCE19m3THCDA) to enroll yourself to the course. Use NITW student mail ID to access the link.
+
 ### Level
 
 Beginner to Intermediate
