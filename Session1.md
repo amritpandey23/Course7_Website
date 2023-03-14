@@ -1,5 +1,9 @@
 # Session 1
 
+## Session Recording
+
+Watch the recorded session [here](https://drive.google.com/file/d/1baflL7tJUYLUJOzDyCkY2-2YoC-stvZD/view?usp=sharing).
+
 ## About
 This course is about teaching you complete full-stack software development and making you independent to choose the framework of your choice to continue your development journey.
 In this course, we will be starting by understanding the stacks used and then using them to create an app.
