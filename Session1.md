@@ -12,7 +12,7 @@ So I wish you all luck and Happy Coding!
 In this course, we are going to build two apps. 
 
 ### Single Page Landing Site in pure HTML & CSS
-The first app will be a simple single-page website landing page which will be hosted on the GitHub Pages. We are going to create everything from scratch (no libraries). We are going to learn HTML5 and CSS3. We then will be using some JavaScript for interactivity. Finally, we will deploy our site on Github Pages and Netlify. After finishing this app you have an in-depth understanding of how front-end websites are built and hosted.
+The first app will be a simple single-page website landing page which will be hosted on the GitHub Pages. We are going to create everything from scratch (no libraries). We are going to learn HTML5 and CSS3. We then will be using some JavaScript for interactivity. Finally, we will deploy our site on Github Pages and Netlify. After finishing this app you have an in-depth understanding of how front-end websites are built and hosted. Here is the [example site](https://www.okape.co.in/).
 
 ### Book Review Website
 The second app will be a simple book review website where we will be creating our book review website. Here we will use various backend technology such as python's web framework called Flask, SQL database, ORMs, etc. And will be learning about various backend technologies like REST, CMS, etc. Finally, we will host this app on a Cloud service like AWS and buy a custom domain to publish our app to the internet. After building this app you will have full knowledge of full-stack software development in Python and you have enough knowledge to start learning and developing websites and apps in any language of your choice.
