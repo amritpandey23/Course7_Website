@@ -4,6 +4,10 @@
 
 - HTML
 
+## Session Recording
+
+Watch the recorded session [here](https://drive.google.com/file/d/1aPodxKxPFOP6b06t4nG__Ygd4cYjqGnC/view?usp=sharing).
+
 ## Getting started
 
 - [MDN Web Docs for HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
