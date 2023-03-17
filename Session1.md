@@ -1,5 +1,11 @@
 # Session 1
 
+## Agenda
+
+- Course Introduction
+- IDE Setup
+- Troubleshooting
+
 ## Session Recording
 
 Watch the recorded session [here](https://drive.google.com/file/d/1baflL7tJUYLUJOzDyCkY2-2YoC-stvZD/view?usp=sharing).
