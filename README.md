@@ -5,10 +5,6 @@
 
 [Register here](https://forms.gle/1JvWVWCE19m3THCDA) to enroll yourself to the course. Use NITW student mail ID to access the link.
 
-## Course Schedule
-
-Find the course schedule [here](https://docs.google.com/spreadsheets/d/13RB-p1ov17ewoNF3eblvvoghwlo6JsCsT0tj9rGj4gE/edit#gid=0).
-
 ### Level
 
 Beginner to Intermediate
