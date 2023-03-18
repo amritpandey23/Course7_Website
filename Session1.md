@@ -21,10 +21,6 @@ So I wish you all luck and Happy Coding!
 ## What are we going to build?
 In this course, we are going to build two apps. 
 
-## Downloads
-
-[here](./downloads/Session3_CSS.zip)
-
 ### Single Page Landing Site in pure HTML & CSS
 The first app will be a simple single-page website landing page which will be hosted on the GitHub Pages. We are going to create everything from scratch (no libraries). We are going to learn HTML5 and CSS3. We then will be using some JavaScript for interactivity. Finally, we will deploy our site on Github Pages and Netlify. After finishing this app you have an in-depth understanding of how front-end websites are built and hosted. Here is the [example site](https://www.okape.co.in/).
 
