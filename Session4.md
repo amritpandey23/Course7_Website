@@ -4,6 +4,10 @@
 
 - CSS Display & Flexbox
 
+## Session Recording
+
+Watche recorded session [here](https://drive.google.com/file/d/1gRJwkGGMhkl4zrho5sF-Xa8ZQstRtbil/view?usp=sharing).
+
 ## Resources
 
 - CSS Flexbox: [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
