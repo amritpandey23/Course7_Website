@@ -23,3 +23,11 @@ Adding CSS styles to our mockup. If you missed last session you can download the
 	--color7: #afafaf; /* gray color */
 }
 ```
+
+## Assignment 3
+
+Finish the website based on the knowledge gained in session 5 & 6. The starter files can be downloaded from [here](https://drive.google.com/file/d/1aWzQ6bx_OmZJIYo6wNPH4ZoYosZbA1ja/view?usp=sharing).
+
+Upload the assignment as Zip file containing source code and screenshot of final website.
+
+[Upload Link](https://forms.gle/1pb24mfDZRpTNMC2A)
