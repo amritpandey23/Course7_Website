@@ -5,3 +5,4 @@
 * [Session 5](Sessions/Session5.md)
 * [Session 6](Sessions/Session6.md)
 * [Session 7](Sessions/Session7.md)
+* [Session 8](Sessions/Session8.md)

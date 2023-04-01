@@ -19,3 +19,7 @@ Git is the free and open source distributed version control system that's respon
 
 Deploy the front end project to the github pages.
 Submit the project URL [here](https://forms.gle/y9ExE52NFH5TQjLd7)
+
+## Further Reading
+
+- [Git Tutorial by Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
