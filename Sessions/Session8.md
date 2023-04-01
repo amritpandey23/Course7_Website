@@ -5,6 +5,10 @@
 - Github & Github Deployment
 - Python Refresher
 
+## Session Recording
+
+Watch recorded session [here](https://drive.google.com/file/d/1vFgONsL52v74UtjtwgSY2LMtqXAHdsJ9/view?usp=sharing).
+
 ## Python Basics
 
 > Everything is an object.
