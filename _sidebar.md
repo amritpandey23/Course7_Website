@@ -7,3 +7,4 @@
 * [Session 7](Sessions/Session7.md)
 * [Session 8](Sessions/Session8.md)
 * [Session 9](Sessions/Session9.md)
+* [Session 10](Sessions/Session10.md)
