@@ -68,3 +68,7 @@ Sorry, <username> does not exist.
 6. Write a methods that takes a number and returns square root of it.
 
 7. Write a program to create an animal class and from that create three other classes of dog, cat and tiger.
+
+## Assignment 5
+
+Submit the github repo link of all the solved problems in python [here](https://forms.gle/SSavFc95zgN8zXb16).
