@@ -116,3 +116,7 @@ def home():
     <h1>{{ data.message }}</h1>
 </body>
 ```
+
+## Assignment 6
+
+Create template from the HTML assignment of [Session 2](../Sessions/Session2.md) and pass `Your Name` value into the template via a variable during render template. Take screenshot of running website and your code side by side and upload it [here](https://forms.gle/PtTpEahGdbor2q4n7).
