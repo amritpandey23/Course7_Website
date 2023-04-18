@@ -35,3 +35,9 @@
 </div>
 {% endblock %}
 ```
+
+## Assignment 7
+
+Create a template and route to add books. It must look as below:
+
+![](../img/assignment7.png)
