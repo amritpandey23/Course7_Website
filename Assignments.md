@@ -11,3 +11,4 @@ Find all assignments on this page. The deadline to finish and submit assignment 
 |5|Python Refresher|[Submit](https://forms.gle/SSavFc95zgN8zXb16)|
 |6|Jinja Template|[Submit](https://forms.gle/PtTpEahGdbor2q4n7)|
 |7|Flask WTF Forms|[Available Soon]()|
+|8|SQLAlchemy Model|[Available Soon]()|
