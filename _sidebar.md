@@ -12,3 +12,4 @@
 * [Session 12 & 13](Sessions/Session12_13.md)
 * [Session 14](Sessions/Session14.md)
 * [Session 15](Sessions/Session15.md)
+* [Session 16](Sessions/Session16.md)
