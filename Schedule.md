@@ -17,3 +17,4 @@
 |13|18/04/2023 (Tue)|Login/Logout System - Part 2|Offline|6:00PM|[Notes](./Sessions/Session12_13.md)|
 |14|22/04/2023 (Sat)|Login/Logout System - Part 3 (Databases)|Offline|6:00PM|[Recording](https://drive.google.com/file/d/1Tx0wlgr5NXXSMhgdbgkI58Ule7bbZ5kS/view?usp=sharing)|
 |15|26/04/2023 (Wed)|Login/Logout System - Part 4 (Finishing)|Offline|6:00PM|[Recording](https://drive.google.com/file/d/1R8bqXAMgOLud7jZuPQnWtojQhzRTbGmT/view?usp=sharing)|
+|16|27/04/2023 (Wed)|Add Book Page)|Offline|6:00PM|[Notes](Sessions/Session16.md)|
