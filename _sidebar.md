@@ -14,3 +14,4 @@
 * [Session 15](Sessions/Session15.md)
 * [Session 16](Sessions/Session16.md)
 * [Session 17](Sessions/Session17.md)
+* [Session 18](Sessions/Session18.md)
